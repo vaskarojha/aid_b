@@ -1,3 +1,3 @@
-Database Credentail are in 'Database' folder
+#this is sample file 
 
-Website link: www.lumbinikennelclub.000webhostapp.com
+this is a kennel club website
